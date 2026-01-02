@@ -1,5 +1,7 @@
 # Fleet & Driver Management System
 
+![Fleet Management GUI](screenshots/gui-demo.png)
+
 A comprehensive Java-based application for managing fleet operations, drivers, vehicles, and delivery assignments with route optimization capabilities.
 
 ## 📋 Overview
